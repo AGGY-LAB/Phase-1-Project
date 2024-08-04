@@ -1,32 +1,33 @@
-## PROJECT PITCH: Monthly Pension Calculation
-# Project Name: Monthly Pension Calculation (MPC)
+## PROJECT PITCH: Treasury Bills Bid
+# Project Name: Treasury Bills Bid (TBB)
 
 # Overview
-MPC is a Web App designed to help individuals save accordingly towards their retirement. MPC helps users set targets towards achieving the financial freedom they desire at their retirement. It helps users first set a target of how much monthly income they intend to have when they retire, and then they are given a monthly amount they will need to save so that when they retire they will have saved enough for them to be able to purchase a pension that gives them their desired monthly income.
+TBB is a web app designed to aid individuls bid for Treasury bills. Users will get to login to the app and bid for the availble trausry bills.
+They will also send any queries they may have and the questions will be responded to on their email.
+
 
 # Key Features
 
 - The user can comfortably interact with and easily change the input values.
-- The user has control over how the accumulated savings are calculated,i.e, they decide the interest rate their savings will earn depenidng on where they intend  to invest.
 - The user interface is easy to understand.
-- The output and the financial advice given is easy to understand
+- The output  given is easy to understand
 
 # Target Market and Monetazation Strategy
 
-I have identified 10 financial institutions that offer financial advoice to their clients, and specifically pension/retirement financial advice.
-I will pitch the Web Application to all of them and sell MPC to them.
-I will also pitch MPC to the Retirement Benefits Authority(RBA), which is a government institutions tasked with ensuring that the kenyan workforce is aware of their retirement needs and their rights in that regard.
+I have identified 10 financial institutions that offer financial advoice to their clients.
+I will pitch the Web Application to all of them and sell TBB to them.
+I will also pitch TBB to the Central Bank of Kenya (CBK).
 
-Alternatively, I may lease MPC the aforementioned financial institutions for a price,thus enusring that for every renewal of the lease, the Premium is re-negotiated based on how active   and attractive MPC was to the clients.
+Alternatively, I may lease TBB the aforementioned financial institutions for a price,thus enusring that for every renewal of the lease, the Premium is re-negotiated based on how active   and attractive MPC was to the clients.
 
 # Competitive Advantage
 
 - Functionality
-MPC is a cutting edge financial tool that will help many individuals without them going to a financial insititution to seek similar form of advice. It will save its clients time and money.
+TBB is a cutting edge financial tool that will help many individuals without them going to a financial broker to buy the treasury bills. It will save its clients time and money.
 
 - Seamless Device Syncing
 Ensures that users can transition effortlessly between devices without losing their progress.
-MPC can be used in any form of device,eg, laptops and mobile devices.
+TBB can be used in any form of device,eg, laptops and mobile devices.
 
 - User-Centric Design
 Focus on a clean, intuitive interface that caters to both individuals and organizations.
@@ -39,18 +40,14 @@ Focus on a clean, intuitive interface that caters to both individuals and organi
 I will be proactive in individually going to the various financial institutions to share MPC.
 
 3. Partnerships and Collaborations
-I will partner with financial brokers and intermediaries who will share MPC with their clients.
+I will partner with financial brokers and intermediaries who will share TBB with their clients.
 
 4. Referral Program
 Encourage existing users to refer friends and colleagues with incentives like extended premium trials
 
 ### Conclusion
-MPC is set to make individuals make concious decisons and efforts in securing their retirement.With each client fully aware of how they want there retirement to look like financially, they will take the right measures now to ensure that they are doing everything they can to achieve that goal.
-MPC will give control to each client and they will be able to have a peek into their potential future and have an opportunity to change that future.
-
-
-
-
+TBB is set to make individuals diversify their investments by making it easy for them to invest in treasry bills of their choice.
+TBB will give control to each client as they will proactively invest in sintruments that were not easily accessible such as the Treasury Bills.
 
 
 
