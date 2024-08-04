@@ -1,0 +1,55 @@
+[[
+     {
+        "term": "91 day",
+        "Amount_offered":4000,
+        "Bids_received":3000,
+        "Interest_Rate":14,
+        "Auction_day": "28-08-2024"
+
+    },
+    {
+        "term": "91 day",
+        "Amount_offered":5000,
+        "Bids_received":2000,
+        "Interest_Rate":13,
+        "Auction_day": "28-09-2024"
+
+    },
+    {
+        "term": "182 day",
+        "Amount_offered":8000,
+        "Bids_received":5000,
+        "Interest_Rate":12,
+        "Auction_day": "28-08-2024"
+
+    },
+    {
+        "term": "182 day",
+        "Amount_offered":8000,
+        "Bids_received":7000,
+        "Interest_Rate":16,
+        "Auction_day": "28-09-2024"
+
+    },
+    {
+        "term": "364 day",
+        "Amount_offered":10000,
+        "Bids_received":3000,
+        "Interest_Rate":16,
+        "Auction_day": "28-08-2024"
+
+    },
+    {
+        "term": "364 day",
+        "Amount_offered":4000,
+        "Bids_received":3000,
+        "Interest_Rate":16,
+        "Auction_day": "28-09-2024"
+
+    }
+]]
+
+
+
+
+
